@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [zygann.de][website] and on [medium.com][medium]
 
-- 💬 Ask me about **Java, SAP Commerce on Cloud, Docker**
+- 💬 Ask me about **Java, SAP Commerce Cloud, Git, Docker**
 
 - 🥅 2022 Goals: Contribute more to open source projects
 
