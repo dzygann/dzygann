@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, SAP Commerce Cloud, Git, Docker**
 
-- 🥅 2022 Goals: Contribute more to open source projects
+- 🥅 2023 Goals: Contribute more to open source projects
 
 ### Connect with me
 <p align="left">
