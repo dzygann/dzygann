@@ -40,11 +40,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Upgrade Debian Bullseye to Bookworm](https://www.zygann.de/linux/how-to-upgrade-debian-bullseye-to-bookworm/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-upgrade-debian-bullseye-to-bookworm)
 - [CVE-2021-44228 Log4Shell Vulnerability in SAP Commerce Cloud on Premise](https://www.zygann.de/sap/hybris/cve-2021-44228-log4shell-vulnerability-in-sap-commerce-cloud-on-premise/?utm_source=rss&utm_medium=rss&utm_campaign=cve-2021-44228-log4shell-vulnerability-in-sap-commerce-cloud-on-premise)
 - [VirtualBox | Free Up Disk Space on Debian Guest](https://www.zygann.de/other/virtualbox-free-up-disk-space-on-debian-guest/?utm_source=rss&utm_medium=rss&utm_campaign=virtualbox-free-up-disk-space-on-debian-guest)
 - [Git Secret Tutorial](https://www.zygann.de/git/git-secret-tutorial/?utm_source=rss&utm_medium=rss&utm_campaign=git-secret-tutorial)
 - [Git | How to use the revert  command](https://www.zygann.de/git/git-how-to-use-the-revert-command/?utm_source=rss&utm_medium=rss&utm_campaign=git-how-to-use-the-revert-command)
-- [Git | Moving Repository from BitBucket to GitHub](https://www.zygann.de/git/git-moving-repository-from-bitbucket-to-github/?utm_source=rss&utm_medium=rss&utm_campaign=git-moving-repository-from-bitbucket-to-github)
 <!-- BLOG-POST-LIST:END -->
 
 
