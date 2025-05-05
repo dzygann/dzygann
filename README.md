@@ -42,10 +42,10 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Upgrade Debian Bullseye to Bookworm](https://www.zygann.de/blog/how-to-upgrade-debian-bullseye-to-bookworm/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-upgrade-debian-bullseye-to-bookworm)
+- [Java Deserialization Attacks: Understanding and Preventing a Silent Killer](https://www.zygann.de/blog/java-deserialization-attacks-understanding-and-preventing-a-silent-killer/?utm_source=rss&utm_medium=rss&utm_campaign=java-deserialization-attacks-understanding-and-preventing-a-silent-killer)
 - [Understanding XXE Attacks in Java: A Hidden Risk in XML Processing](https://www.zygann.de/blog/understanding-xxe-attacks-in-java-a-hidden-risk-in-xml-processing/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-xxe-attacks-in-java-a-hidden-risk-in-xml-processing)
 - [Path Traversal via File Upload in Java: What You Need to Know](https://www.zygann.de/blog/path-traversal-via-file-upload-in-java-what-you-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=path-traversal-via-file-upload-in-java-what-you-need-to-know)
 - [SQL Injection in Java: Still a Threat — Here’s How to Stop It](https://www.zygann.de/blog/sql-injection-in-java-still-a-threat-heres-how-to-stop-it/?utm_source=rss&utm_medium=rss&utm_campaign=sql-injection-in-java-still-a-threat-heres-how-to-stop-it)
-- [CVE-2021-44228 Log4Shell Vulnerability in SAP Commerce Cloud on Premise](https://www.zygann.de/blog/cve-2021-44228-log4shell-vulnerability-in-sap-commerce-cloud-on-premise/?utm_source=rss&utm_medium=rss&utm_campaign=cve-2021-44228-log4shell-vulnerability-in-sap-commerce-cloud-on-premise)
 <!-- BLOG-POST-LIST:END -->
 
 
