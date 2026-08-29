@@ -41,11 +41,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Linux Storage &lpar;Part 1&rpar;: Diagnosing Disk Space &amp; Decoding Partition Sector Geometry](https://www.zygann.de/blog/mastering-linux-storage-part-1-diagnosing-disk-space-decoding-partition-sector-geometry/?utm_source=rss&utm_medium=rss&utm_campaign=mastering-linux-storage-part-1-diagnosing-disk-space-decoding-partition-sector-geometry)
 - [How to Fix Outlook SMTP Login Failed in Thunderbird](https://www.zygann.de/blog/how-to-fix-outlook-smtp-login-failed-in-thunderbird/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-outlook-smtp-login-failed-in-thunderbird)
 - [How to Upgrade Debian Bullseye to Bookworm](https://www.zygann.de/blog/how-to-upgrade-debian-bullseye-to-bookworm/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-upgrade-debian-bullseye-to-bookworm)
 - [Java Deserialization Attacks: Understanding and Preventing a Silent Killer](https://www.zygann.de/blog/java-deserialization-attacks-understanding-and-preventing-a-silent-killer/?utm_source=rss&utm_medium=rss&utm_campaign=java-deserialization-attacks-understanding-and-preventing-a-silent-killer)
 - [Understanding XXE Attacks in Java: A Hidden Risk in XML Processing](https://www.zygann.de/blog/understanding-xxe-attacks-in-java-a-hidden-risk-in-xml-processing/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-xxe-attacks-in-java-a-hidden-risk-in-xml-processing)
-- [Path Traversal via File Upload in Java: What You Need to Know](https://www.zygann.de/blog/path-traversal-via-file-upload-in-java-what-you-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=path-traversal-via-file-upload-in-java-what-you-need-to-know)
 <!-- BLOG-POST-LIST:END -->
 
 
